@@ -1,0 +1,22 @@
+﻿  ex6.c
+C:\Users\aluno\Desktop\10I harleen\qual e numero maior\qual e numero maior\ex6.c(8,10): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+      C:\Users\aluno\Desktop\10I harleen\qual e numero maior\qual e numero maior\ex6.c(8,10):
+      espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 0 foram fornecidos
+      C:\Users\aluno\Desktop\10I harleen\qual e numero maior\qual e numero maior\ex6.c(8,10):
+      o argumento variadic 1 ausente é requerido pela cadeia de formato '%i'
+  
+C:\Users\aluno\Desktop\10I harleen\qual e numero maior\qual e numero maior\ex6.c(10,10): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+      C:\Users\aluno\Desktop\10I harleen\qual e numero maior\qual e numero maior\ex6.c(10,10):
+      espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 0 foram fornecidos
+      C:\Users\aluno\Desktop\10I harleen\qual e numero maior\qual e numero maior\ex6.c(10,10):
+      o argumento variadic 1 ausente é requerido pela cadeia de formato '%i'
+  
+C:\Users\aluno\Desktop\10I harleen\qual e numero maior\qual e numero maior\ex6.c(12,10): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+      C:\Users\aluno\Desktop\10I harleen\qual e numero maior\qual e numero maior\ex6.c(12,10):
+      espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 0 foram fornecidos
+      C:\Users\aluno\Desktop\10I harleen\qual e numero maior\qual e numero maior\ex6.c(12,10):
+      o argumento variadic 1 ausente é requerido pela cadeia de formato '%i'
+  
+C:\Users\aluno\Desktop\10I harleen\qual e numero maior\qual e numero maior\ex6.c(13,1): error C4700: variável local não inicializada 'n1' usada
+C:\Users\aluno\Desktop\10I harleen\qual e numero maior\qual e numero maior\ex6.c(13,1): error C4700: variável local não inicializada 'n2' usada
+C:\Users\aluno\Desktop\10I harleen\qual e numero maior\qual e numero maior\ex6.c(13,1): error C4700: variável local não inicializada 'n3' usada
