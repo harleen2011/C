@@ -1,0 +1,4 @@
+﻿  Ex8.c
+C:\Users\aluno\Desktop\10I harleen\Soma e segue\Soma e segue\Ex8.c(10,10): warning C4477: 'scanf_s': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'int'
+C:\Users\aluno\Desktop\10I harleen\Soma e segue\Soma e segue\Ex8.c(11,12): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\aluno\Desktop\10I harleen\Soma e segue\Soma e segue\Ex8.c(5,1): error C1075: '{': nenhum token correspondente encontrado
